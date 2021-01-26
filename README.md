@@ -8,4 +8,4 @@ I've never been a huge programmer,  so I hope this will get me into the habit an
 ## My Pledge
 1. I will code for at least 1 hour for 100 days. 
 2. I will push the code to GitHub everyday.
-3. I will update the log everyday to track my progress.
+3. I will update the [log](https://github.com/TessCBear/100-Days-of-Code/blob/main/Log.md) everyday to track my progress.
