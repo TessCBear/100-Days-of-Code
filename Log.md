@@ -11,6 +11,12 @@ This was an easy project for me, but still fun.
 #### Description of Program
 Another simple program that takes in a bill amount, tip percentage and number of people splitting a bill. It then uses this information to calculate how much each person should pay.
 
-### Thoughts
+#### Thoughts
 This was an easy project. My only challenge was getting the program to print the entire cents value even when it was 0. 
 
+### Day 3: [Treasure Island](https://github.com/TessCBear/100-Days-of-Code/new/main/Day%203)
+#### Description of Program
+This program was more complicated. It used conditional statements to make a simple decision-based treasure hunt.
+
+#### Thoughts
+This was more difficult, but I really enjoyed the creative freedom and personalisation it gave me.
