@@ -30,7 +30,7 @@ if dir1 == 'L':
         sand = input('The sand here feels bumpy. Do you dig (D) or keep walking (W)? \n')
         if sand == 'D':
             box = input('You find three boxes. Do you open the red (R), green (G) or purple (P)? \n')
-            if box == 'R' or 'P':
+            if box == 'R' or box == 'P':
                 print('Snakes and scorpions pour out and you die. Game over.')
             else:
                 print('The treasure was the journey of the game <3') 
