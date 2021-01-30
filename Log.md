@@ -20,3 +20,10 @@ This program was more complicated. It used conditional statements to make a simp
 
 #### Thoughts
 This was more difficult, but I really enjoyed the creative freedom and personalisation it gave me.
+
+### Day 4 [Rock, Paper, Scissors, Lizard Spock](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%204)
+#### Description of Program
+This is my personalisation of the original challenge. A game against the computer using randomisation.
+
+#### Thoughts
+The principle behind the game was relatively simple to implement. The hard part was making sure I had all of the options possible in my more complicated version!
