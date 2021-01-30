@@ -14,7 +14,7 @@ Another simple program that takes in a bill amount, tip percentage and number of
 #### Thoughts
 This was an easy project. My only challenge was getting the program to print the entire cents value even when it was 0. 
 
-### Day 3: [Treasure Island](https://github.com/TessCBear/100-Days-of-Code/new/main/Day%203)
+### Day 3: [Treasure Island](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%203)
 #### Description of Program
 This program was more complicated. It used conditional statements to make a simple decision-based treasure hunt.
 
@@ -27,3 +27,10 @@ This is my personalisation of the original challenge. A game against the compute
 
 #### Thoughts
 The principle behind the game was relatively simple to implement. The hard part was making sure I had all of the options possible in my more complicated version!
+
+### Day 5 [Password Generator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%205)
+#### Description of Program
+The program takes input of a number of letters, numbers and symbols to be used in a password. It then randomly chooses these characters and places them directly in that order (easier to crack) and shuffles the order (harder to crack), giving two possible passwords.
+
+#### Thoughts
+It was challenging to get all of the randomisation and shuffling right, but I did get it working in the end and learnt a lot along the way.
