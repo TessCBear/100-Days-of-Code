@@ -34,3 +34,10 @@ The program takes input of a number of letters, numbers and symbols to be used i
 
 #### Thoughts
 It was challenging to get all of the randomisation and shuffling right, but I did get it working in the end and learnt a lot along the way.
+
+### Day 6 [Escaping the Maze](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%206)
+#### Description of Program
+The program helps a robot named Reeborg escape a maze. It uses some built-in functions and a strategy of how to navigate the maze. Reeborg starts at different random positions and could be facing in any direction. It is not the most efficient way of navigating the maze, but it does get him out eventually.
+
+#### Thoughts
+It was challenging to put the strategy given into code. It took a few tries and some debugging, but I got there in the end. I really enjoyed this fun and interactive way of learning a concept!
