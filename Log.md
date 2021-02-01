@@ -41,3 +41,10 @@ The program helps a robot named Reeborg escape a maze. It uses some built-in fun
 
 #### Thoughts
 It was challenging to put the strategy given into code. It took a few tries and some debugging, but I got there in the end. I really enjoyed this fun and interactive way of learning a concept!
+
+### Day 7 [Hangman](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%207)
+#### Description of Program
+The classic game of "hangman". The computer randomly choses a word from a list. The user must guess the word one letter at a time before they run out of lives.
+
+#### Thoughts
+This was a really challenging project, but I thoroughly enjoyed it. It really got me thinking and using all of the skills I've learnt.
