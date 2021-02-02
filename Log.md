@@ -48,3 +48,10 @@ The classic game of "hangman". The computer randomly choses a word from a list. 
 
 #### Thoughts
 This was a really challenging project, but I thoroughly enjoyed it. It really got me thinking and using all of the skills I've learnt.
+
+### Day 8 [Caesar Cipher](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%208)
+#### Description of Program
+A Caesar Cipher uses a predetermined shift to encrypt or decrypt a message. Letters are shifted a certain amount in the alphabet. For example a shift of 3 would mean "a" becomes "d", "b" becomes "e", and so on.
+
+#### Thoughts
+I found it difficult to implement the shifting, but I kept perservering and got there in the end.
