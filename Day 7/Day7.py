@@ -12,12 +12,14 @@ print(art.logo)
 #generate a list of the correct number of _
 display = []
 for letter in chosen_word:
-    display += "_"
+    display += "_" #display = ['_']*len(chosen_word)
 print(display)
 
 #Allow to guess until win or lose
 lives = 6
-while chosen_word_list != display and lives >=-1:
+while chosen_word_list != display and lives >=0:
+
+    print(f'You have {lives} live/s remaining')
 
 #Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
     guess = input("Choose a letter: ").lower()    
@@ -35,7 +37,7 @@ while chosen_word_list != display and lives >=-1:
         lives -= 1
         if lives == -1:
             print(f"No. The word was {chosen_word}. You lose")
-            break
+            exit()
     print("\n" + ' '.join(display))
     print("\n" + art.stages[lives])
 

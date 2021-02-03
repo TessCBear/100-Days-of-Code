@@ -26,7 +26,7 @@ def caesar(text, shift, direction):
     message = ""
     if direction == "encode":
         for letter in text:
-            if letter == " " or letter == "." or letter == "!" or letter =="," or letter == "?":
+            if letter == " " or letter == "." or letter == "!" or letter =="," or letter == "?": #Could have refactored to check if char in special char string
                 message += letter
             else:
                 current_index = alphabet.index(letter)
@@ -35,6 +35,8 @@ def caesar(text, shift, direction):
                     new_index -= 26
                 letter_coded = alphabet[new_index]
                 message += letter_coded
+                # current_index = ord(letter) - 97
+                # message += alphabet[current_index + shift % 26]
         print(message)
     else:
         for letter in text:
