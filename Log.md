@@ -55,3 +55,17 @@ A Caesar Cipher uses a predetermined shift to encrypt or decrypt a message. Lett
 
 #### Thoughts
 I found it difficult to implement the shifting, but I kept perservering and got there in the end.
+
+### Day 9 [Secret Auction](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%209)
+#### Description of Program
+A secret aution allows bidders to enter their name and a bid amount without anyone seeing anyone else's bids. The program then calculates which bid was the highest.
+
+#### Thoughts
+This program was one of the easier ones for me. The idea of dictionaries made sense in my head, so it was easy to apply to the program.
+
+### Day 10 [Calculator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2010)
+#### Description of Program
+As the name suggests, this program is a mathematical calculator. It uses recursive functions to allow the user to indefinitely add, subtract, multiply and divide numbers.
+
+#### Thoughts
+This program was also easy for me to do. It was fun to figure out how a calculator actually works and to make it interactive for the user.
