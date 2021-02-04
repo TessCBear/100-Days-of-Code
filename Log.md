@@ -1,62 +1,62 @@
 # Log of the projects I've made in the challenge
 
-### Day 1: [Band Name Generator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%201)
+### Day 1: [Band Name Generator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2001)
 #### Description of Program
 A simple program that takes a city and a pet name as inputs and combines them into a proposed name for a band.
 
 #### Thoughts
 This was an easy project for me, but still fun.
 
-### Day 2: [Restaurant Tip Calculator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%202)
+### Day 2: [Restaurant Tip Calculator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2002)
 #### Description of Program
 Another simple program that takes in a bill amount, tip percentage and number of people splitting a bill. It then uses this information to calculate how much each person should pay.
 
 #### Thoughts
 This was an easy project. My only challenge was getting the program to print the entire cents value even when it was 0. 
 
-### Day 3: [Treasure Island](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%203)
+### Day 3: [Treasure Island](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2003)
 #### Description of Program
 This program was more complicated. It used conditional statements to make a simple decision-based treasure hunt.
 
 #### Thoughts
 This was more difficult, but I really enjoyed the creative freedom and personalisation it gave me.
 
-### Day 4: [Rock, Paper, Scissors, Lizard Spock](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%204)
+### Day 4: [Rock, Paper, Scissors, Lizard Spock](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2004)
 #### Description of Program
 This is my personalisation of the original challenge. A game against the computer using randomisation.
 
 #### Thoughts
 The principle behind the game was relatively simple to implement. The hard part was making sure I had all of the options possible in my more complicated version!
 
-### Day 5: [Password Generator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%205)
+### Day 5: [Password Generator](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2005)
 #### Description of Program
 The program takes input of a number of letters, numbers and symbols to be used in a password. It then randomly chooses these characters and places them directly in that order (easier to crack) and shuffles the order (harder to crack), giving two possible passwords.
 
 #### Thoughts
 It was challenging to get all of the randomisation and shuffling right, but I did get it working in the end and learnt a lot along the way.
 
-### Day 6 [Escaping the Maze](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%206)
+### Day 6 [Escaping the Maze](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2006)
 #### Description of Program
 The program helps a robot named Reeborg escape a maze. It uses some built-in functions and a strategy of how to navigate the maze. Reeborg starts at different random positions and could be facing in any direction. It is not the most efficient way of navigating the maze, but it does get him out eventually.
 
 #### Thoughts
 It was challenging to put the strategy given into code. It took a few tries and some debugging, but I got there in the end. I really enjoyed this fun and interactive way of learning a concept!
 
-### Day 7 [Hangman](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%207)
+### Day 7 [Hangman](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2007)
 #### Description of Program
 The classic game of "hangman". The computer randomly choses a word from a list. The user must guess the word one letter at a time before they run out of lives.
 
 #### Thoughts
 This was a really challenging project, but I thoroughly enjoyed it. It really got me thinking and using all of the skills I've learnt.
 
-### Day 8 [Caesar Cipher](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%208)
+### Day 8 [Caesar Cipher](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2008)
 #### Description of Program
 A Caesar Cipher uses a predetermined shift to encrypt or decrypt a message. Letters are shifted a certain amount in the alphabet. For example a shift of 3 would mean "a" becomes "d", "b" becomes "e", and so on.
 
 #### Thoughts
 I found it difficult to implement the shifting, but I kept perservering and got there in the end.
 
-### Day 9 [Secret Auction](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%209)
+### Day 9 [Secret Auction](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2009)
 #### Description of Program
 A secret aution allows bidders to enter their name and a bid amount without anyone seeing anyone else's bids. The program then calculates which bid was the highest.
 
