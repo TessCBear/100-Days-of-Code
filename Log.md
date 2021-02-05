@@ -69,7 +69,6 @@ As the name suggests, this program is a mathematical calculator. It uses recursi
 
 #### Thoughts
 This program was also easy for me to do. It was fun to figure out how a calculator actually works and to make it interactive for the user.
-<<<<<<< HEAD
 
 ### Day 11 [Blackjack](https://github.com/TessCBear/100-Days-of-Code/tree/main/Day%2011)
 #### Description of Program
@@ -77,5 +76,3 @@ The classic game "Blackjack". It is a simplified version since the deck is infin
 
 #### Thoughts
 I found this a good way to combine all of my skills so far. It took me a while to get it working efficiently, but wasn't too bad to do.
-=======
->>>>>>> b7b471970f33049ff8085495dd91a117397b4123
