@@ -90,3 +90,10 @@ There was no real end program today. The lesson required us to fix bugs in vario
 
 #### Thoughts
 This was not a very challenging exercise, but it was good to try and find the bugs and satisfying when I got it to work properly.
+
+### Day 14 [Higher Lower Game](https://github.com/TessCBear/100-Days-of-Code/tree/main/Beginner/Day%2014)
+#### Description
+The game presents the user with two celebrities. The user must decide which celebrity has the greater Instagram following. If correctly guessed, the second celebrity is then compared to a new one and the game continues. The user must try to get as many correct guesses in a row as they can.
+
+#### Thoughts
+I felt that my implementation was a lot simpler than the course instructors. It was not a particularly difficult challenge.
