@@ -96,4 +96,4 @@ This was not a very challenging exercise, but it was good to try and find the bu
 The game presents the user with two celebrities. The user must decide which celebrity has the greater Instagram following. If correctly guessed, the second celebrity is then compared to a new one and the game continues. The user must try to get as many correct guesses in a row as they can.
 
 #### Thoughts
-I felt that my implementation was a lot simpler than the course instructors. It was not a particularly difficult challenge.
+I felt that my implementation was a lot simpler than the course instructor's. It was not a particularly difficult challenge.
