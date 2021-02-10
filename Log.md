@@ -97,3 +97,10 @@ The game presents the user with two celebrities. The user must decide which cele
 
 #### Thoughts
 I felt that my implementation was a lot simpler than the course instructors. It was not a particularly difficult challenge.
+
+### Day 15 [Coffee Machine](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2015)
+#### Description
+This is a digital coffee machine. A user chooses a drink and inputs money. The program then decides if it has the correct resources and sufficient funds to carry out the order. 
+
+#### Thoughts
+This was probably the hardest challenge so far, so I'm proud of myself for completing it. It took a lot of thought and planning to do everything.
