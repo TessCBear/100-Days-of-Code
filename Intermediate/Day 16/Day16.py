@@ -12,7 +12,7 @@ money_machine_object = MoneyMachine()
 machine_on = True
 while machine_on:
     drink_options = menu_object.get_items()
-    drink = input("What would you like to drink? {drink_options} ")
+    drink = input(f"What would you like to drink? {drink_options} ")
     if drink == "off":
         machine_on = False
     elif drink == "report":
