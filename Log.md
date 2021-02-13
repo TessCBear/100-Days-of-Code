@@ -104,3 +104,10 @@ This is a digital coffee machine. A user chooses a drink and inputs money. The p
 
 #### Thoughts
 This was probably the hardest challenge so far, so I'm proud of myself for completing it. It took a lot of thought and planning to do everything.
+
+### Day 16 [Coffee Machine](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2016)
+#### Description
+Same as Day 15, but done using Object Oriented Programming.
+
+#### Thoughts
+I really struggled with implementing my new knowledge of OOP. It definitely makes the code a lot easier to see what's going on.
