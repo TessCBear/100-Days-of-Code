@@ -112,7 +112,7 @@ Same as Day 15, but done using Object Oriented Programming.
 #### Thoughts
 I really struggled with implementing my new knowledge of OOP. It definitely makes the code a lot easier to see what's going on.
 
-### Day 17 [Quiz]((https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2017)
+### Day 17 [Quiz](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2017)
 #### Description
 A simple quiz programme that presents the user with True/False questions to answer. The score is tallied at the end. This was done using OOP.
 
