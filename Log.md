@@ -118,3 +118,17 @@ A simple quiz programme that presents the user with True/False questions to answ
 
 #### Thoughts
 This was a fun project to create. I enjoyed the Step-By-Step instructions since it really helped to break down the project and make the new concept easier to apply. 
+
+### Day 18 [Hirst-Style Painting](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2018)
+#### Description
+A program which uses *Turtle* graphics to create a Damien Hirst-style spot painting. 
+
+#### Thoughts
+I preferred the Spiragraph challenge today, but it was a fun project and I got to know more about *Turtle*.
+
+### Day 19 [Etch-A-Sketch and Turtle Racing](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2019)
+#### Description
+The classic Etch-A-Sketch game and a Turtle Race using random step lengths on a number of turtles. The user must bet on which colour turtle will win.
+
+#### Thoughts
+I found these programs easy and thought it could have been made more challenging.
