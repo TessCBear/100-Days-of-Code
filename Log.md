@@ -132,3 +132,10 @@ The classic Etch-A-Sketch game and a Turtle Race using random step lengths on a 
 
 #### Thoughts
 I found these programs easy and thought it could have been made more challenging.
+
+### Day 20 & 21 [Snake Game](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2020%20%26%2021)
+#### Description
+The classic Snake Game from old fashioned cellphones. The snake constantly moves, following the user's direction, and food randomly appears on the board. When the snake eats food, it grows larger. The user must try to get the snake as long as possible without colliding with the edge of the board or other parts of the snake's body.
+
+#### Thoughts
+This was the longest project we've made so far. I really enjoyed it, and I'm proud of myself for getting this far!
