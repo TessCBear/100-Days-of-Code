@@ -162,3 +162,11 @@ A program which replaces a list of names into a placeholder in a letter and crea
 
 #### Thoughts
 Overall not a difficult thing to implement, was interesting to see how it's done and think about this problem.
+
+### Day 25 [US Guessing Game](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2025)
+
+#### Description
+A user must guess as many states as possible. When a correct guess is made, the state name appears over the location of the state.
+
+#### Thoughts
+Difficult to wrap my mind around some parts of the *Pandas* module, but otherwise not too bad to program.
