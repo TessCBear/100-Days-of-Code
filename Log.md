@@ -139,3 +139,18 @@ The classic Snake Game from old fashioned cellphones. The snake constantly moves
 
 #### Thoughts
 This was the longest project we've made so far. I really enjoyed it, and I'm proud of myself for getting this far!
+
+### Day 22 [Pong Game](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2022)
+#### Description
+The classic game of Pong. A ball is bounced between two paddles which can move up and down. If a player misses a ball, the opposing player gets a point and it resets.
+
+#### Thoughts
+I enjoyed making this game and using OOP to do it. The bouncing was difficult to think about, but easy once I got it.
+
+### Day 23 [Turtle Crossing](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2023)
+
+#### Description
+A version of "Crossy Roads" where a turtle must navigate through traffic without being hit. The turtle can only move up. Once the turtle reaches the top of the screen, the level is complete and it resets with faster moving cars.
+
+#### Thoughts
+This was good practise for OOP and Turtle graphics. A few elements were hard to get perfect, but overall it wasn't too hard of a project.
