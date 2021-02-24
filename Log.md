@@ -154,3 +154,11 @@ A version of "Crossy Roads" where a turtle must navigate through traffic without
 
 #### Thoughts
 This was good practise for OOP and Turtle graphics. A few elements were hard to get perfect, but overall it wasn't too hard of a project.
+
+### Day 24 [Mail Merge](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2024)
+
+#### Description
+A program which replaces a list of names into a placeholder in a letter and creates personalised versions of the same letter.
+
+#### Thoughts
+Overall not a difficult thing to implement, was interesting to see how it's done and think about this problem.
