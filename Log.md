@@ -171,10 +171,18 @@ A user must guess as many states as possible. When a correct guess is made, the 
 #### Thoughts
 Difficult to wrap my mind around some parts of the *Pandas* module, but otherwise not too bad to program.
 
-### Day 26 [Nato Phonetic Alphabet]()
+### Day 26 [Nato Phonetic Alphabet](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2026)
 
-### Description
+#### Description
 The program takes in a word and converts each letter into the Nato Phonetic Alphabet equivalent.
 
-### Thoughts
+#### Thoughts
 Took a while to get my brain to understand and implement, but amazing concept and makes the code so short!
+
+### Day 27 [Miles to Kilometers](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2027)
+
+#### Description
+A program using *tkinter* which takes Miles and converts them into Kilometers
+
+#### Thoughts
+Not a difficult project, but got me used to working with *tkinter*.
