@@ -194,3 +194,11 @@ A program which automatically times the intervals of break and work for the Pomo
 
 #### Thoughts
 I learnt a lot more about *tkinter* and enjoyed the challenge of creating the timer mechanism.
+
+### Day 29 & 30 [Password Manager](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2029%20%26%2030)
+
+#### Description
+A program which can add usernames and passwords for websites to a database and display said data when searched for.
+
+#### Thoughts
+I enjoyed this program, and learnt more about *tkinter* as well as exceptions and json files in the process.
