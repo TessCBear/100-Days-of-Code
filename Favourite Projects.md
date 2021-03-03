@@ -7,8 +7,9 @@
 
 ## Intermediate
 * [Spirograph](https://github.com/TessCBear/100-Days-of-Code/blob/main/Intermediate/Day%2018/Spirograph.py)
-* [Snake Game](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2020%20%26%2021
-)
+* [Snake Game](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2020%20%26%2021)
+* [Turtle Crossing](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2020%20%26%2023)
+* [Pomodoro Timer](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2020%20%26%2028)
 ## Advanced
 
 ## Professional
