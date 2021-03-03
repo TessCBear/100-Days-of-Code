@@ -170,3 +170,11 @@ A user must guess as many states as possible. When a correct guess is made, the 
 
 #### Thoughts
 Difficult to wrap my mind around some parts of the *Pandas* module, but otherwise not too bad to program.
+
+### Day 26 [Nato Phonetic Alphabet]()
+
+### Description
+The program takes in a word and converts each letter into the Nato Phonetic Alphabet equivalent.
+
+### Thoughts
+Took a while to get my brain to understand and implement, but amazing concept and makes the code so short!
