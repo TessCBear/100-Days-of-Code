@@ -186,3 +186,11 @@ A program using *tkinter* which takes Miles and converts them into Kilometers
 
 #### Thoughts
 Not a difficult project, but got me used to working with *tkinter*.
+
+### Day 28 [Pomodoro Timer](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2028)
+
+#### Description
+A program which automatically times the intervals of break and work for the Pomodoro productivity technique.
+
+#### Thoughts
+I learnt a lot more about *tkinter* and enjoyed the challenge of creating the timer mechanism.
