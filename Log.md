@@ -202,3 +202,11 @@ A program which can add usernames and passwords for websites to a database and d
 
 #### Thoughts
 I enjoyed this program, and learnt more about *tkinter* as well as exceptions and json files in the process.
+
+### Day 31 [Flash Cards](https://github.com/TessCBear/100-Days-of-Code/tree/main/Intermediate/Day%2028)
+
+#### Description
+A flash card which chooses randomly from a list and displays a Russian word. After 3 seconds the English translation is shown. The user can track whether they know the word or not and once known, the word will not be displayed again.
+
+#### Thoughts
+A good test of my skills so far with *tkinter* and *pandas*. 
