@@ -10,3 +10,5 @@ I've never been a huge programmer,  so I hope this will get me into the habit an
 2. I will push the code to GitHub everyday.
 3. I will update the [log](https://github.com/TessCBear/100-Days-of-Code/blob/main/Log.md) everyday to track my progress.
 4. If, for some reason, I cannot code on a particular day, I will make it up on another day (ie. code twice).
+
+Edit: I have fallen quite far behind. Life got crazy. I will still aim to code everyday and catch up where possible. My goal is just to do all 100 Days, I'm not stressing too much anymore about how far behind I am etc.
